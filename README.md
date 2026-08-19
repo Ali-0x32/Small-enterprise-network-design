@@ -173,6 +173,7 @@ show access-lists
 ```
 
 The increasing match count confirmed that the Guest traffic was being blocked by the ACL.
+![Guest Isolation Test](Screenshots/ACL-counter.png)
 
 ---
 
