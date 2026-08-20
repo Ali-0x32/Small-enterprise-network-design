@@ -45,7 +45,7 @@ The network is divided into three VLANs:
 The switch-to-router connection uses trunking to carry traffic for multiple VLANs.
 
 ```cisco
-interface fa0/1
+interface fa0/23
 switchport mode trunk
 ```
 
